@@ -22,6 +22,7 @@ interests:
 - Artificial Intelligence
 - Computational Logic
 - Automated Reasoning
+- Program Synthesis
 - Machine Learning
 - Algorithms
 - Model Revision
@@ -121,4 +122,4 @@ During my Ph.D., I was awarded with a doctoral grant from <a href="https://www.f
 
 <!-- My research interests are included in the field of artificial intelligence, such as algorithms for computational logic, constraint solving, and optimization. I also enjoy addressing practical problems with logic-based approaches, namely problems in the biology field. Other research interests include program synthesis, machine learning and natural language processing. -->
 
-Since 2017, I have been a teaching assistant at <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, in the Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, and Algorithms for Computational Logic, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, and IST Excellent Teachers 2020/2021.
+Since 2017, I have been a teaching assistant at <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, in the Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, Algorithms for Computational Logic, and Artificial Intelligence, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, and IST Excellent Teachers 2020/2021.

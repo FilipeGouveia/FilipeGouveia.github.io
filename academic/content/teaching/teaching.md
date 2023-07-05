@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Artificial Intelligence
+    company: Instituto Superior Técnico - ULisboa (Alameda campus)
+    company_url: 'https://fenix.tecnico.ulisboa.pt/disciplinas/IArt2/2022-2023/2-semestre'
+    #company_logo: IST_A_RGB_POS
+    location: Bologna Degree in Computer Science and Engineering
+    date_start: '2023-05-02'
+    date_end: ''
+    #description: (|2- for multiple lines) Problems classes
+
   - title: Analysis and Synthesis of Algorithms
     company: Instituto Superior Técnico - ULisboa (TagusPark campus)
     company_url: 'https://fenix.tecnico.ulisboa.pt/disciplinas/ASA2/2022-2023/1-semestre'
     #company_logo: IST_A_RGB_POS
     location: Bologna Degree in Computer Science and Engineering
     date_start: '2022-11-21'
-    date_end: ''
+    date_end: '2023-02-10'
     #description: (|2- for multiple lines) Problems classes
 
   - title: Algorithms for Computational Logic

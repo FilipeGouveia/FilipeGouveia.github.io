@@ -41,6 +41,7 @@ experience:
     date_start: '2017-02-01'
     date_end: ''
     description: |2-
+        - <a href='https://fenix.tecnico.ulisboa.pt/disciplinas/IArt2/2022-2023/2-semestre' target="_blank">Artificial Intelligence</a> (Spring 2022/2023 - 4th Quarter)
         - <a href='https://fenix.tecnico.ulisboa.pt/disciplinas/ASA2/2022-2023/1-semestre' target="_blank">Analysis and Synthesis of Algorithms</a> (Fall 2022/2023 - 2nd Quarter)
         - <a href='https://fenix.tecnico.ulisboa.pt/disciplinas/ALC/2022-2023/1-semestre' target="_blank">Algorithms for Computational Logic</a> (Fall 2022/2023 - 1st Quarter)
         - <a href='https://fenix.tecnico.ulisboa.pt/disciplinas/LN13/2020-2021/1-semestre' target="_blank">Natural Language</a> (Fall 2020/2021)
@@ -58,7 +59,7 @@ experience:
     location: Lisbon, Portgual
     date_start: '2016-01-01'
     date_end: '2021-02-28'
-    description: Researcher as a Ph.D. student, under the supervision of <a href='https://arsr.inesc-id.pt/~ptgm/' target="_blank">Pedro Monteiro</a> and <a href='https://sat.inesc-id.pt/~ines/' target="_blank">Inês Lynce</a> , on revision of logical models of biological regulatory networks.
+    description: Researcher as a Ph.D. student, under the supervision of <a href='https://arsr.inesc-id.pt/~ptgm/' target="_blank">Prof. Pedro Monteiro</a> and <a href='https://sat.inesc-id.pt/~ines/' target="_blank">Prof. Inês Lynce</a> , on revision of logical models of biological regulatory networks.
 
   - title: Software Developer
     company: SAPO, Portugal Telecom
