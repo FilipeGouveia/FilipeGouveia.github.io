@@ -53,7 +53,7 @@ url_code: 'https://filipegouveia.github.io/ModRev/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/publication/2019/ISBRA/slides.pdf'
+url_slides: '/publication/2019/isbra/slides.pdf'
 url_source: ''
 url_video: ''
 

@@ -43,6 +43,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: MSc Thesis
+  url: /publication/theses/msc/MSc.pdf
 - name: Extended Abstract
   url: https://fenix.tecnico.ulisboa.pt/downloadFile/395144612108/ExtendedAbstract-MEIC-T-63543-JoaoGouveia.pdf
 

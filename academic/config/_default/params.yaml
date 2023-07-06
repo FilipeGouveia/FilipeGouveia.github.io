@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Filipe Gouveia personal website.'
+    twitter: 'FilipeRGouveia'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -70,8 +70,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
+    url: 'https://github.com/FilipeGouveia/FilipeGouveia.github.io'
+    content_dir: academic
     branch: master
   avatar:
     gravatar: false

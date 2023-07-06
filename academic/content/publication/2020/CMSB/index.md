@@ -53,7 +53,7 @@ url_code: 'https://filipegouveia.github.io/ModRev/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/publication/2020/CMSB/slides.pdf'
+url_slides: '/publication/2020/cmsb/slides.pdf'
 url_source: ''
 url_video: 'https://ulisboa-my.sharepoint.com/:v:/g/personal/ist163543_tecnico_ulisboa_pt/EdZPak1wvLVEtPAkNBid1VYBeRz6_2yq_EzKzi7p7ES0HA'
 

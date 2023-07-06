@@ -52,9 +52,9 @@ featured: true
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: '/publication/2017/EPIA/poster.pdf'
+url_poster: '/publication/2017/epia/poster.pdf'
 url_project: ''
-url_slides: '/publication/2017/EPIA/slides.pdf'
+url_slides: '/publication/2017/epia/slides.pdf'
 url_source: ''
 url_video: ''
 

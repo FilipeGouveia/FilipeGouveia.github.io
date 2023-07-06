@@ -42,7 +42,9 @@ tags: ["ModRev", "Model Revision", "Logical Models", "Answer Set Programming"]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
+- name: PhD Thesis
+  url: /publication/theses/phd/PhD.pdf
 # - name: Custom Link
 #   url: http://example.org
 
@@ -51,7 +53,7 @@ url_code: 'https://filipegouveia.github.io/ModRev/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/publication/Theses/PhD/slides.pdf'
+url_slides: '/publication/theses/phd/slides.pdf'
 url_source: ''
 url_video: ''
 
