@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Filipe Gouveia</title><link>https://filipegouveia.github.io/project/</link><atom:link href="https://filipegouveia.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>https://filipegouveia.github.io/media/icon_hufa4c56891d61cfa37a39b89fe3e36f4b_30358_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://filipegouveia.github.io/project/</link></image><item><title>ModRev</title><link>https://filipegouveia.github.io/project/modrev/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://filipegouveia.github.io/project/modrev/</guid><description>&lt;p>ModRev is a command line tool to revise Boolean logical models of biological regulatory networks.&lt;/p>
+&lt;p>This tool was developed for &lt;em>UNIX&lt;/em> and &lt;em>MacOSX&lt;/em> systems.&lt;/p>
+&lt;p>&lt;strong>ModRev&lt;/strong> is able to repair inconsistent Boolean models under the following:&lt;/p>
+&lt;ul>
+&lt;li>Set of stable state observations&lt;/li>
+&lt;li>Set of time-series observations
+&lt;ul>
+&lt;li>With synchronous update scheme&lt;/li>
+&lt;li>With asynchronous update scheme&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

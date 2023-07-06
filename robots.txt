@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://filipegouveia.github.io/sitemap.xml
