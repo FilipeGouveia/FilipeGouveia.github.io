@@ -1,4 +1,5 @@
-baseurl = "/"
+# baseurl = "http://localhost:1313/terminal/"
+baseurl = "https://filipegouveia.github.io/terminal/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -65,11 +66,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "Filipe Gouveia"
+    subtitle = ""
+    owner = "Filipe Gouveia"
     keywords = ""
-    copyright = ""
+    copyright = "© Filipe Gouveia"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -81,18 +82,18 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Filipe Gouveia"
       logoHomeLink = "/terminal/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/terminal/about"
+        url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/terminal/showcase"
+        url = "/showcase"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
@@ -101,3 +102,8 @@ paginate = 5
   # replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
 [[module.imports]]
   path = 'terminal'
+
+[[menu.shortcuts]]
+  name = "<i class='fas fa-tags'></i> Tags"
+  url = "/tags"
+  weight = 30
