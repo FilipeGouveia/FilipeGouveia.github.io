@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Associate
+    company: Department of Computer Science at the University of Oxford
+    company_url: 'https://www.cs.ox.ac.uk/'
+    #company_logo: org-gc
+    location: Oxford, United Kingdom
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Researcher on the fileds of program synthesis, and inductive logic programming.
   - title: Researcher
     company: INESC-ID
     company_url: 'https://www.inesc-id.pt/'
     #company_logo: org-gc
-    location: Lisbon, Portgual
+    location: Lisbon, Portugal
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2023-06-30'
     description: Researcher on the fileds of program synthesis, and fairness in machine learning.
         
   - title: Teaching Assistant
