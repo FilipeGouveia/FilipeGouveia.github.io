@@ -2,7 +2,7 @@
 title: Posts
 cms_exclude: true
 
-draft: false
+draft: true
 
 active: false
 
