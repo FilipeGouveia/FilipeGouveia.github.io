@@ -4,6 +4,8 @@ cms_exclude: true
 
 draft: false
 
+active: false
+
 # View.
 #   1 = List
 #   2 = Compact
