@@ -7,7 +7,8 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+# weight: 50
+weight: 40
 
 title: Recent Publications
 subtitle: "<a href='/publication'>View all the publications</a>"

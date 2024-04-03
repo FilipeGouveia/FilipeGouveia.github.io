@@ -7,7 +7,8 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+# weight: 40
+weight: 60
 
 title: Experience
 subtitle:
@@ -29,7 +30,7 @@ experience:
     location: Oxford, United Kingdom
     date_start: '2023-09-01'
     date_end: ''
-    description: Researcher on the fileds of program synthesis, and inductive logic programming.
+    description: Researcher on the field of inductive logic programming.
   - title: Researcher
     company: INESC-ID
     company_url: 'https://www.inesc-id.pt/'
@@ -37,7 +38,7 @@ experience:
     location: Lisbon, Portugal
     date_start: '2022-01-01'
     date_end: '2023-06-30'
-    description: Researcher on the fileds of program synthesis, and fairness in machine learning.
+    description: Researcher on the fields of program synthesis, and fairness in machine learning.
         
   - title: Teaching Assistant
     company: |2-
@@ -47,7 +48,7 @@ experience:
     #company_logo: org-x
     location: Lisbon, Portugal
     date_start: '2017-02-01'
-    date_end: ''
+    date_end: '2023-06-30'
     description: |2-
         - <a href='https://fenix.tecnico.ulisboa.pt/disciplinas/IArt2/2022-2023/2-semestre' target="_blank">Artificial Intelligence</a> (Spring 2022/2023 - 4th Quarter)
         - <a href='https://fenix.tecnico.ulisboa.pt/disciplinas/ASA2/2022-2023/1-semestre' target="_blank">Analysis and Synthesis of Algorithms</a> (Fall 2022/2023 - 2nd Quarter)

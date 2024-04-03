@@ -22,7 +22,8 @@ design:
 
 ## MSc Students
 
-  - Mariana Cintrão (Ongoing)
+  - Mariana Cintrão (Concluded)
     - *Reasoning over Indirect Discrimination*
     - Master Degree in Computer Science and Engineering
     - Instituto Superior Técnico, Universidade de Lisboa
+    - [Link](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/1128253548923550)

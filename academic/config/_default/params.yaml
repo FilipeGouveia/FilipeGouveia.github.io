@@ -9,7 +9,7 @@ appearance:
   theme_day: my_orange
   theme_night: my_orange
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 

@@ -29,7 +29,7 @@ experience:
     #company_logo: IST_A_RGB_POS
     location: Bologna Degree in Computer Science and Engineering
     date_start: '2023-05-02'
-    date_end: ''
+    date_end: '2023-06-30'
     #description: (|2- for multiple lines) Problems classes
 
   - title: Analysis and Synthesis of Algorithms
