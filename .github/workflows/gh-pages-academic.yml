@@ -25,9 +25,19 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
+      - name: Build Academic
         run: hugo --minify
         working-directory: ./academic
+
+      - name: Build terminal
+        run: hugo --minify
+        working-directory: ./terminal
+
+      - name: Copy terminal to publish
+        run: |
+          mkdir terminal
+          cp -r ../../terminal/public/. termnal/.
+        working-directory: ./academic/public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
