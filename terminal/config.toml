@@ -99,10 +99,10 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
-        url = "/"
+        url = "/posts"
       [[languages.en.menu.main]]
-        identifier = "zacademic"
-        name = "Academic"
+        identifier = "academic"
+        name = "Professional"
         url = "https://filipegouveia.github.io/"
 
 [module]
