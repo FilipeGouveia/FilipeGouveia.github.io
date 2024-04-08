@@ -85,7 +85,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Filipe Gouveia"
-      logoHomeLink = "/"
+      # logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -100,6 +100,10 @@ paginate = 5
         identifier = "posts"
         name = "Posts"
         url = "/"
+      [[languages.en.menu.main]]
+        identifier = "academic"
+        name = "Academic"
+        url = "https://filipegouveia.github.io/"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
