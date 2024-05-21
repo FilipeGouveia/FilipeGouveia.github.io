@@ -28,9 +28,9 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
-  - name: Personal
-    url: '/terminal'
-    weight: 80
+  # - name: Personal
+  #   url: '/terminal'
+  #   weight: 80
   
 
 # Link to a PDF of your resume/CV from the menu.
