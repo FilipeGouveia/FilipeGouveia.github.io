@@ -29,8 +29,9 @@ experience:
     #company_logo: org-gc
     location: Oxford, United Kingdom
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2024-06-30'
     description: Researcher on the field of inductive logic programming.
+    
   - title: Researcher
     company: INESC-ID
     company_url: 'https://www.inesc-id.pt/'

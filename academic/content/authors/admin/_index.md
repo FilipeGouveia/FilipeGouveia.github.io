@@ -31,6 +31,8 @@ interests:
 - Computational Biology
 - Logical Modeling
 - Natural Language Processing
+- Inductive Logic Programming
+- Optimization
 
 # Education to show in About widget
 education:
