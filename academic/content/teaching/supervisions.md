@@ -27,7 +27,6 @@ design:
     - Master Degree in Computer Science and Engineering
     - Instituto Superior Técnico, Universidade de Lisboa
     - 2024
-    - [Link](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/1128253548923550)
 
   - Mariana Cintrão (Concluded)
     - *Reasoning over Indirect Discrimination*
