@@ -5,7 +5,8 @@ author = "Filipe Gouveia"
 tags = ["teste", "troia"]
 +++
 
-I am a researcher at <a href="https://www.inesc-id.pt/" target="_blank">INESC-ID Lisboa</a> in the <a href="https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/" target="_blank">Automated Reasoning and Software Reliability (ARSR)</a> group.
+I have been a Research Associate, during 2023-2024, at the Department of Computer Science of the University of Oxford in the Logic and Learning (LOL) group, in the field of Inductive Logic Programming.
+I was also a researcher at <a href="https://www.inesc-id.pt/" target="_blank">INESC-ID Lisboa</a> in the <a href="https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/" target="_blank">Automated Reasoning and Software Reliability (ARSR)</a> group, during 2016-2023.
 
 I obtained an MSc in Information Systems and Computer Engineering from <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a> in 2012, focussing on intelligent systems, and information technology.
 Then, I worked in the private sector for some years, as a software developer. Here, I participated in several projects, developing, for example, geographical information systems web services, and thematic websites.
