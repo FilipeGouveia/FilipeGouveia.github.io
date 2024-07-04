@@ -117,7 +117,7 @@ His research interests are included in the field of artificial intelligence, suc
 From 2018, Filipe has been a teaching assistant at <a href="https://tecnico.ulisboa.pt/">IST - Universidade de Lisboa</a>, in Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, and Algorithms for Computational Logic, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, and IST Excellent Teachers 2020/2021.
 -->
 
-I am a Research Associate at the <a href="https://www.cs.ox.ac.uk/" target="_blank">Department of Computer Science of the University of Oxford</a> in the <a href="https://www.andrewcropper.com/group" target="_blank">Logic and Learning (LOL)</a> group.
+I am a Research Associate at the <a href="https://www.cs.ox.ac.uk/" target="_blank">Department of Computer Science of the University of Oxford</a> in the <a href="https://www.andrewcropper.com/group" target="_blank">Logic and Learning (LOL)</a> group, in the field of Inductive Logic Programming.
 
 <!--I am a researcher at <a href="https://www.inesc-id.pt/" target="_blank">INESC-ID Lisboa</a> in the <a href="https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/" target="_blank">Automated Reasoning and Software Reliability (ARSR)</a> group.-->
 
