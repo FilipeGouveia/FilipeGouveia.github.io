@@ -10,10 +10,12 @@ role: Computer Science Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Computer Science, University of Oxford
-  url: https://www.cs.ox.ac.uk/
-- name: INESC-ID
-  url: https://www.inesc-id.pt/
+- name: SISCOG
+  url: https://www.siscog.pt/en-gb/
+# - name: Department of Computer Science, University of Oxford
+#   url: https://www.cs.ox.ac.uk/
+# - name: INESC-ID
+#   url: https://www.inesc-id.pt/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
