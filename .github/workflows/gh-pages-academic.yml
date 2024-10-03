@@ -22,7 +22,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: 'v0.120.0' # 'latest' : ERROR deprecated: .Site.GoogleAnalytics was deprecated in Hugo v0.120.0 and will be removed in Hugo 0.136.0. Use .Site.Config.Services.GoogleAnalytics.ID instead.
           extended: true
 
       - name: Build Academic
