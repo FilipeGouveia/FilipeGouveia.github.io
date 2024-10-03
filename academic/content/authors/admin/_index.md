@@ -117,12 +117,13 @@ His research interests are included in the field of artificial intelligence, suc
 From 2018, Filipe has been a teaching assistant at <a href="https://tecnico.ulisboa.pt/">IST - Universidade de Lisboa</a>, in Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, and Algorithms for Computational Logic, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, and IST Excellent Teachers 2020/2021.
 -->
 
-I am a Research Associate at the <a href="https://www.cs.ox.ac.uk/" target="_blank">Department of Computer Science of the University of Oxford</a> in the <a href="https://www.andrewcropper.com/group" target="_blank">Logic and Learning (LOL)</a> group, in the field of Inductive Logic Programming.
+I am currently a Software Engineer at <a href="https://www.siscog.pt/en-gb/" target="_blank">SISCOG</a>, in the Department of Innovation.
+<!--I am a Research Associate at the <a href="https://www.cs.ox.ac.uk/" target="_blank">Department of Computer Science of the University of Oxford</a> in the <a href="https://www.andrewcropper.com/group" target="_blank">Logic and Learning (LOL)</a> group, in the field of Inductive Logic Programming.-->
 
 <!--I am a researcher at <a href="https://www.inesc-id.pt/" target="_blank">INESC-ID Lisboa</a> in the <a href="https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/" target="_blank">Automated Reasoning and Software Reliability (ARSR)</a> group.-->
 
 I obtained an MSc in Information Systems and Computer Engineering from <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a> in 2012, focussing on intelligent systems, and information technology.
-Then, I worked in the private sector for some years, as a software developer. Here, I participated in several projects, developing, for example, geographical information systems web services, and thematic websites.
+Then, I worked in the private sector for some years, as a software developer. There, I participated in several projects, developing, for example, geographical information systems web services, and thematic websites.
 In 2021, I obtained a Ph.D. in Computer Science and Engineering from <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, being approved with distinction.
 During my Ph.D., I was awarded with a doctoral grant from <a href="https://www.fct.pt/" target="_blank">Fundação para a Ciência e Tecnologia (FCT)</a>. My Ph.D work focused on the application of logic-based approaches and algorithms to revise Boolean logical models of biological regulatory networks.
 
@@ -130,3 +131,5 @@ During my Ph.D., I was awarded with a doctoral grant from <a href="https://www.f
 
 From 2016 to 2023, I was a researcher at <a href="https://www.inesc-id.pt/" target="_blank">INESC-ID Lisboa</a> in the <a href="https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/" target="_blank">Automated Reasoning and Software Reliability (ARSR)</a> group.
 Since 2017, I have been a teaching assistant at <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, in the Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, Algorithms for Computational Logic, and Artificial Intelligence, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, IST Excellent Teachers 2020/2021, and IST Excellent Teachers 2022/2023.
+
+From 2023 to 2024, I was a Research Associate at the <a href="https://www.cs.ox.ac.uk/" target="_blank">Department of Computer Science of the University of Oxford</a> in the <a href="https://www.andrewcropper.com/group" target="_blank">Logic and Learning (LOL)</a> group, in the field of Inductive Logic Programming.

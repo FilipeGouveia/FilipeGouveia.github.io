@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: SISCOG
+    company_url: 'https://www.siscog.pt/en-gb/'
+    #company_logo: org-gc
+    location: Lisbon, Portugal
+    date_start: '2024-09-02'
+    date_end: ''
+    description: Software Engineer in the Department of Innovation, working on Train Schedules.
+
   - title: Research Associate
     company: Department of Computer Science at the University of Oxford
     company_url: 'https://www.cs.ox.ac.uk/'
