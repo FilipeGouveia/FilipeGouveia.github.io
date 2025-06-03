@@ -2,7 +2,7 @@
 title = "About"
 date = "2019-01-25"
 author = "Filipe Gouveia"
-tags = ["teste", "troia"]
+tags = ["about"]
 +++
 
 I have been a Research Associate, during 2023-2024, at the Department of Computer Science of the University of Oxford in the Logic and Learning (LOL) group, in the field of Inductive Logic Programming.
