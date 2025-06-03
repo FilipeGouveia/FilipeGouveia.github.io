@@ -22,23 +22,25 @@ design:
 
 ## MSc Students
 
-  - Miguel Mendes (Ongoing)
-    - *Finding Robust Train Schedules*
-    - Master Degree in Computer Science and Engineering
-    - Instituto Superior Técnico, Universidade de Lisboa
-    - 2024
-
   - Tomás Duarte (Ongoing)
     - *Recovering from Disruptions in Train Scheduling*
     - Master Degree in Computer Science and Engineering
     - Instituto Superior Técnico, Universidade de Lisboa
     - 2024
 
-  - António Pinheiro (Ongoing)
+  - Miguel Mendes (Concluded)
+    - *Finding Robust Train Schedules*
+    - Master Degree in Computer Science and Engineering
+    - Instituto Superior Técnico, Universidade de Lisboa
+    - 2024
+    - [Link](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/2254153455763740)
+
+  - António Pinheiro (Concluded)
     - *Python library for boolean model revision*
     - Master Degree in Computer Science and Engineering
     - Instituto Superior Técnico, Universidade de Lisboa
     - 2024
+    - [Link](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/3098578385895796)
 
   - Mariana Cintrão (Concluded)
     - *Reasoning over Indirect Discrimination*
@@ -49,7 +51,7 @@ design:
 
 ## Researchers
 
-  - Rafael Gonçalves (Ongoing)
+  - Rafael Gonçalves (Concluded)
     - *Proxy Attribute Discovery in Machine Learning Datasets*
     - Junior Researcher
     - INESC-ID
