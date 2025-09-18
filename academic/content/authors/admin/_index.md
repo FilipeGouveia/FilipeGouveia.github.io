@@ -140,7 +140,7 @@ From 2017 to 2023, I was teaching assistant at <a href="https://tecnico.ulisboa.
 In 2021, I obtained a Ph.D. in Computer Science and Engineering from <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, being approved with distinction.
 During my Ph.D., I was awarded with a doctoral grant from <a href="https://www.fct.pt/" target="_blank">Fundação para a Ciência e Tecnologia (FCT)</a>. My Ph.D work focused on the application of logic-based approaches and algorithms to revise Boolean logical models of biological regulatory networks.
 
-From 2013 to 2015, I worked in the private sector, at <a href="https://sapo.pt/" target="_blank">SAPO</a> as a software developer. There, I participated in several projects, developing, for example, geographical information systems web services, and thematic websites.
+From 2013 to 2015, I worked in the private sector, at <a href="https://sapo.pt/" target="_blank">SAPO</a>, as a software developer. There, I participated in several projects, developing, for example, geographical information systems web services, and thematic websites.
 
 <!--I obtained an MSc in Information Systems and Computer Engineering from <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a> in 2012, focussing on intelligent systems, and information technology.-->
 
