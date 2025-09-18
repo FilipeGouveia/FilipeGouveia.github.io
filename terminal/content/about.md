@@ -5,7 +5,10 @@ author = "Filipe Gouveia"
 tags = ["about"]
 +++
 
-I have been a Research Associate, during 2023-2024, at the Department of Computer Science of the University of Oxford in the Logic and Learning (LOL) group, in the field of Inductive Logic Programming.
+I am currently an Invited Assistant Professor at the Faculty of Sciences of the University of Lisbon.
+
+Previously, from 2024 to 2025, I worked at <a href="https://www.siscog.pt/" target="_blank">SISCOG</a> as a Software Enginnering, applying Boolean Satisfiability to generate train schedules.
+I was a Research Associate, during 2023-2024, at the Department of Computer Science of the University of Oxford in the Logic and Learning (LOL) group, in the field of Inductive Logic Programming.
 I was also a researcher at <a href="https://www.inesc-id.pt/" target="_blank">INESC-ID Lisboa</a> in the <a href="https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/" target="_blank">Automated Reasoning and Software Reliability (ARSR)</a> group, during 2016-2023.
 
 I obtained an MSc in Information Systems and Computer Engineering from <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a> in 2012, focussing on intelligent systems, and information technology.
@@ -15,4 +18,4 @@ During my Ph.D., I was awarded with a doctoral grant from <a href="https://www.f
 
 <!-- My research interests are included in the field of artificial intelligence, such as algorithms for computational logic, constraint solving, and optimization. I also enjoy addressing practical problems with logic-based approaches, namely problems in the biology field. Other research interests include program synthesis, machine learning and natural language processing. -->
 
-From 2017 to 2023, I have been a teaching assistant at <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, in the Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, Algorithms for Computational Logic, and Artificial Intelligence, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, IST Excellent Teachers 2020/2021, and IST Excellent Teachers 2022/2023.
+<!--From 2017 to 2023, I have been a teaching assistant at <a href="https://tecnico.ulisboa.pt/" target="_blank">IST - Universidade de Lisboa</a>, in the Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, Algorithms for Computational Logic, and Artificial Intelligence, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, IST Excellent Teachers 2020/2021, and IST Excellent Teachers 2022/2023.-->
