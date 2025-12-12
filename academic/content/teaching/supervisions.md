@@ -22,17 +22,18 @@ design:
 
 ## MSc Students
 
-  - Tomás Duarte (Ongoing)
-    - *Recovering from Disruptions in Train Scheduling*
+  - Tomás Duarte (Concluded)
+    - *Handling incidents in train scheduling with Satisfiability Modulo Theories*
     - Master Degree in Computer Science and Engineering
     - Instituto Superior Técnico, Universidade de Lisboa
-    - 2024
+    - 2024/2025
+    - [Link](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/1128253548924181)
 
   - Miguel Mendes (Concluded)
     - *Finding Robust Train Schedules*
     - Master Degree in Computer Science and Engineering
     - Instituto Superior Técnico, Universidade de Lisboa
-    - 2024
+    - 2024/2025
     - [Link](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/2254153455763740)
 
   - António Pinheiro (Concluded)
