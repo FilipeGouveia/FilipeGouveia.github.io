@@ -24,7 +24,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: My research interests include artificial intelligence, computational logic and automated reasoning.
+bio: My research interests include computational logic, automated reasoning, program synthesis, logic programming, and programming languages.
 
 # Interests to show in About widget
 interests:
@@ -62,7 +62,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '/#contact'
-  link: mailto:filipe DOT gouveia AT tecnico DOT ulisboa DOT pt
+  link: mailto:jfgouveia AT ciencias DOT ulisboa DOT pt
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -124,7 +124,7 @@ His research interests are included in the field of artificial intelligence, suc
 From 2018, Filipe has been a teaching assistant at <a href="https://tecnico.ulisboa.pt/">IST - Universidade de Lisboa</a>, in Department of Computer Science, in the courses of Introduction to Algorithms and Data Structures, Analysis and Synthesis of Algorithms, Natural Language, and Algorithms for Computational Logic, being awarded IST Excellent Teachers 2018/2019, IST Excellent Teachers 2019/2020, and IST Excellent Teachers 2020/2021.
 -->
 
-I am currently an Assistant Professor at the <a href="https://ciencias.ulisboa.pt/" target="_blank">Faculty of Sciences of the University of Lisbon</a> and an integrated researcher at <a href="https://lasige.pt/" target="_blank">LASIGE</a>.
+I am currently an Assistant Professor at the <a href="https://ciencias.ulisboa.pt/" target="_blank">Faculty of Sciences of the University of Lisbon</a> and an Integrated Researcher at <a href="https://lasige.pt/" target="_blank">LASIGE</a>.
 <!--I am currently a Software Engineer at <a href="https://www.siscog.pt/en-gb/" target="_blank">SISCOG</a>, in the Department of Innovation.-->
 <!--I am a Research Associate at the <a href="https://www.cs.ox.ac.uk/" target="_blank">Department of Computer Science of the University of Oxford</a> in the <a href="https://www.andrewcropper.com/group" target="_blank">Logic and Learning (LOL)</a> group, in the field of Inductive Logic Programming.-->
 

@@ -22,6 +22,36 @@ design:
 
 ## MSc Students
 
+  - Gabriel Meirinho (Ongoing)
+    - *Automated Feature Engineering using Genetic Programming*
+    - Master Degree in Informatics Engineering
+    - Faculdade de Ciências, Universidade de Lisboa
+    - 2025/2026
+
+  - Rúben Torres (Ongoing)
+    - *AI-Assisted Generation of Complex Objects for Software Testing*
+    - Master Degree in Informatics Engineering
+    - Faculdade de Ciências, Universidade de Lisboa
+    - 2025/2026
+
+  - Pedro Gonçalves (Ongoing)
+    - *Qual o papel do vídeo como veículo da construção de conhecimento inclusivo?*
+    - Master Degree in Informatics Teaching
+    - Instituto de Educação, Universidade de Lisboa
+    - 2025/2026
+  
+  - João Paulo Vidal (Ongoing)
+    - *Implementação do Agile Based Learning no Ensino de Multimédia em Aplicações Informáticas B: Potencial para a Motivação e Aprendizagem dos Alunos do 12.º Ano*
+    - Master Degree in Informatics Teaching
+    - Instituto de Educação, Universidade de Lisboa
+    - 2025/2026
+
+  - Afonso Matos (Ongoing)
+    - *Finding Multi-Attribute Proxies using Genetic Programming*
+    - Master Degree in Computer Science and Engineering
+    - Instituto Superior Técnico, Universidade de Lisboa
+    - 2025/2026
+
   - Tomás Duarte (Concluded)
     - *Handling incidents in train scheduling with Satisfiability Modulo Theories*
     - Master Degree in Computer Science and Engineering

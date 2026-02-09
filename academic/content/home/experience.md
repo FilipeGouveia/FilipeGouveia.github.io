@@ -28,9 +28,19 @@ experience:
     company_url: 'https://ciencias.ulisboa.pt/'
     #company_logo: org-gc
     location: Lisbon, Portugal
-    date_start: '2025-09-02'
+    date_start: '2025-12-01'
     date_end: ''
+    description: 
     
+  - title: Integrated Researcher
+    company: LASIGE
+    company_url: 'https://lasige.pt/'
+    #company_logo: org-gc
+    location: Lisbon, Portugal
+    date_start: '2025-09-18'
+    date_end: ''
+    description: Researcher in Reliable Software Systems, and Data and Systems Intelligence.
+
   - title: Invited Assistant Professor
     company: Faculty of Sciences, University of Lisbon
     company_url: 'https://ciencias.ulisboa.pt/'
