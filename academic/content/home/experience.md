@@ -30,7 +30,8 @@ experience:
     location: Lisbon, Portugal
     date_start: '2025-12-01'
     date_end: ''
-    description: 
+    description: |2-
+        - <a href='https://fenix.ciencias.ulisboa.pt/courses/dcobj-284554468271485' target="_blank">Object Oriented Development</a> (Spring 2025/2026)
     
   - title: Integrated Researcher
     company: LASIGE
@@ -39,7 +40,7 @@ experience:
     location: Lisbon, Portugal
     date_start: '2025-09-18'
     date_end: ''
-    description: Researcher in Reliable Software Systems, and Data and Systems Intelligence.
+    description: Integrated Researcher in Reliable Software Systems, and Data and Systems Intelligence.
 
   - title: Invited Assistant Professor
     company: Faculty of Sciences, University of Lisbon

@@ -25,14 +25,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-#  - title: Introduction to Programming
-#    company: Faculty of Sciences - ULisboa
-#    company_url: 'https://fenix.ciencias.ulisboa.pt/courses/ipro-284554468271471'
-    #company_logo: IST_A_RGB_POS
-#    location: Bologna Degree in Informatics Engineering
-#    date_start: '2025-09-02'
-#    date_end: '2026-01-31'
-    #description: (|2- for multiple lines) Problems classes
+ - title: Object Oriented Development
+   company: Faculty of Sciences - ULisboa
+   company_url: 'https://fenix.ciencias.ulisboa.pt/courses/dcobj-284554468271485'
+    # company_logo: IST_A_RGB_POS
+   location: Bologna Degree in Informatics Engineering
+   date_start: '2026-02-19'
+   date_end: ''
+    # description: (|2- for multiple lines) Problems classes
 
 
 design:
