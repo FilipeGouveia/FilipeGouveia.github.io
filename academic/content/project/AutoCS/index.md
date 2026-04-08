@@ -57,3 +57,4 @@ As a marker of success, a key objective is to use an AutoCS to discover a novel 
  - [Andrew Cropper](https://www.andrewcropper.com/) (PI)
  - [Céline Hocquette](https://celinehocquette.github.io/)
  - [Filipe Gouveia](https://filipegouveia.github.io/)
+ - [Minghao Liu](https://minghao-liu.github.io/)
