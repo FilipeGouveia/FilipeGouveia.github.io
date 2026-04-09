@@ -30,7 +30,7 @@ doi: "10.1007/978-3-031-90653-4_17"
 publication_types: ["1", "Conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Tools and Algorithms for the Construction and Analysis of Systems *
+publication: In Tools and Algorithms for the Construction and Analysis of Systems
 publication_short: In *TACAS 2025*
 
 abstract: The issue of fairness is a well-known challenge in Machine Learning (ML) that has gained increased importance with the emergence of Large Language Models (LLMs) and generative AI. Algorithmic bias can manifest during the training of ML models due to the presence of sensitive attributes, such as gender or racial identity. One approach to mitigate bias is to avoid making decisions based on these protected attributes. However, indirect discrimination can still occur if sensitive information is inferred from proxy attributes. To prevent this, there is a growing interest in detecting potential proxy attributes before training ML models. In this case study, we report on the use of Inductive Logic Programming (ILP) to discover proxy attributes in training datasets, with a focus on the ML classification problem. While ILP has established applications in program synthesis and data curation, we demonstrate that it can also advance the state of the art in proxy attribute discovery by removing the need for prior domain knowledge. Our evaluation shows that this approach is effective at detecting potential sources of indirect discrimination, having successfully identified proxy attributes in several well-known datasets used in fairness-awareness studies.
