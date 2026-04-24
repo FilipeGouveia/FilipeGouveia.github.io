@@ -40,6 +40,7 @@ interests:
 - Natural Language Processing
 - Inductive Logic Programming
 - Optimization
+- Programming Languages
 
 # Education to show in About widget
 education:
